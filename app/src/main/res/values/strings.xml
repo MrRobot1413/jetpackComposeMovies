@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">movies</string>
+    <string name="home_header">What\'s on your mind today?</string>
+    <string name="popular">Popular</string>
+    <string name="view_all">View all</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="newest">Newest</string>
+    <string name="go_back">Go Back</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="something_went_wrong">Something went wrong :(</string>
+    <string name="try_again">Try again</string>
+    <string name="minutes">minutes</string>
+    <string name="show_more">... Show More</string>
+    <string name="show_less">" Show Less"</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="share">Share</string>
+    <string name="arrow_back">Arrow Back</string>
+    <string name="similar_movies">Similar Movies</string>
+    <string name="search">Search</string>
+</resources>
